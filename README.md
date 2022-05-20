@@ -12,4 +12,4 @@
 
 7. ![default](screenshot.gif)
 
-8.
+8. https://hyundai-sangho.github.io/TodoList_react/
